@@ -1,7 +1,6 @@
 # 共识
-Consensus within the Ethereum network refers to the capacity for multiple nodes or agents to agree on the state of the blockchain at a given point in time. This is closely related but distinct from the conventional definition of consensus, which is defined as a general agreement between individuals or groups. In this context, the community must solve the challenges of coming to consensus both technically (within the network) and socially (to ensure that the protocol does not fork or fracture). This chapter will outline some of the technical methods for establishing consensus.
 
-以太坊网络中的共识是指在一个特定的时间点，多个节点或者代理就某个区块链的状态达成同意的能力。
+以太坊网络中的共识是指在一个特定的时间点，多个节点或者代理就区块链的某个状态达成同意的能力。区块链的共识概念和共识概念的传统定义关系密切，却完全区别开来。传统共识的定义为多个个人或者群组达成的广泛共识。在区块链的语境下，社区需要从技术（区块链网络内部）和社会（需要保证协议不会分叉或者破裂）。本章将概述一些用来建立共识的技术方法。
 
 When it comes to the core function of decentralized record keeping and verification on the blockchain, it can become problematic to rely on trust alone to ensure that information added to the ledger is correct. This challenge is more pronounced in decentralized networks because there is no central entity to decide what should and should not be considered as truth. The lack of a central decision-making entity is one of the main attractions within the blockchain’s popularity because of the systems' resulting capacity to resist censorship and the lack of dependence on authority for permission or access to information. However, these benefits come at a potential cost because without a trusted arbitrator any disagreements, deceptions or differences need to be reconciled using mathematical, economic or social techniques. A decentralised system is therefore more resilient to attack but can be less decisive in responding to changes.
 
